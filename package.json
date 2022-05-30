@@ -1,6 +1,6 @@
 {
-  "homepage": "https://sabrinamaizarez.github.io/resume-web/",
-  "name": "resume-web",
+  "homepage": "https://sabrinamaizarez.github.io/my-resume",
+  "name": "my-resume",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
