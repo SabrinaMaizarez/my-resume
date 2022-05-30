@@ -37,14 +37,14 @@
   letter-spacing: 10px;
   padding-left: 17px;
   background: transparent;
-  color: #e0afa0;
-  border: 4px solid #e0afa0;
+  color: #0e0d2e;
+  border: 4px solid #2b1a44;
   z-index: 20;
   cursor: pointer;
 }
 .button_submit_contact:hover {
   transform: translateY(-5px);
-  filter: invert(100%);
+  filter: invert(70%);
 }
 
 @media (max-width: 750px) {

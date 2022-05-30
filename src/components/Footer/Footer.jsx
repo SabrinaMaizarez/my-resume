@@ -15,20 +15,20 @@ export default function Footer() {
         <a
           rel="noopener noreferrer"
           target="_BLANK"
-          href="https://www.linkedin.com/in/lunia98/"
+          href="https://www.linkedin.com/in/sabrinamaizarez/"
         >
           <LinkedInIcon fontSize="default" style={{ color: "black" }} />
         </a>
         <a
           rel="noopener noreferrer"
           target="_BLANK"
-          href="https://github.com/Lunia98"
+          href="https://github.com/SabrinaMaizarez"
         >
           <GitHubIcon fontSize="default" style={{ color: "black" }} />
         </a>
         <a
           target="_BLANK"
-          href="https://drive.google.com/file/d/1e0_Dvun9sUsNsqlhkUjF2odyqyMX-u2w/view?usp=sharing"
+          href="https://docs.google.com/document/d/16Ib-qF6aJ6BPWKsnDPraQt3LcvfqvMNEdxoS-IV8UL8/edit"
           rel="noreferrer"
           className="icon_Cv"
         >
@@ -37,7 +37,7 @@ export default function Footer() {
         </a>
       </div>
       <div className="text_footer">
-        <p>{lenguage ? "Hecho con 💛 por Lu" : "Made with 💛 by Lu"}</p>
+        <p>{lenguage ? "Hecho con 💛 por Sabri" : "Made with 💛 by Sabri"}</p>
       </div>
       <Lenguage />
     </div>

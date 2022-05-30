@@ -8,10 +8,10 @@
   letter-spacing: 10px;
   padding-left: 17px;
   background: transparent;
-  color: #e0afa0;
-  border: 5px solid #e0afa0;
+  color: #0e0d2e;
+  border: 5px solid #2b1a44;
 }
 .button-start:hover {
   transform: translateY(-5px);
-  filter: invert(100%);
+  filter: invert(-60%);
 }

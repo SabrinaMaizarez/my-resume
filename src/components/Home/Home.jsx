@@ -11,18 +11,20 @@ export default function Home({ pos }) {
       <div className="presentation">
         <h1>
           {lenguage
-            ? "¡Hola de vuelta! ¡Soy Lucia Ayala!"
-            : "Hi again! I'm Lucia Ayala!"}
+            ? "Me presento! Soy Sabrina Maizarez"
+            : "I introduce myself! I'm Sabrina Maizarez"}
         </h1>
 
         <h2 style={{ width: "60%", textAlign: "center" }}>
           {lenguage
-            ? "Dije esto en febrero del 2021: Soy desarrolladora web FullStack.  ¡Me encuentro buscando un trabajo que me desafíe día a día! Constantemente estoy mejorando mis conocimientos, soy proactiva y me encanta trabajar en equipo."
-            : "I said this in February 2021: A FullStack Developer. I find myself looking for a job that challenges me every day! I am constantly improving my knowledge, I am proactive and I love working as a team!"}
+            ? "Tengo 20 años y actualmente estoy trabajando en Openix IT Solutions como full-stack developer. Reciéntemente me gradué de la universidad, así que realmente estoy empezando en el mundo del desarrollo de software y me encanta cada vez conocer mas de el. "
+            : "I'm 20 years old and I'm currently working at Openix IT Solutions as a full-stack developer. I recently graduated from college, so I'm really just starting out in the world of software development and I love learning more and more about it."}
         </h2>
         <br/>
         <h2 style={{width: "60%", textAlign: 'center'}}>
-            {lenguage ? "Ahora: Trabajo como Software Engineer en Auth0! Muchas gracias a todos por el apoyo! :)" : "Now: I work as a Software Engineer at Auth0! Thank you very much for the support! :) "}
+        {lenguage
+            ? "Soy una persona dedicada, con la habilidad de trabajar de manera independiente o en equipomy autodidacta también así que aspiro a aprender un poco más cada día. "
+            : "I'm a dedicated person with the ability to work both independently and in a team, and self-taught as well so I aspire to learn a little more every day. "}
         </h2>
 
         {size.width < 750 ? (

@@ -26,7 +26,7 @@ export default function Intro({ setPos }) {
     <div>
       <div className="container_image_pixel">
         <div className="image_pixel">
-          <div className={lips ? "lips" : undefined} />
+          {/* <div className={lips ? "lips" : undefined} /> */}
         </div>
       </div>
       <div className="container_intro">
@@ -37,13 +37,13 @@ export default function Intro({ setPos }) {
               className="line anim-typewriter"
               style={{ border: state ? "none" : undefined }}
             >
-              {lenguage ? "Oh! Hola a todos!" : "Oh! Hello there!"}
+              {lenguage ? "Hola!" : "Hey u there!"}
             </p>
             {state && (
               <p style={{ width: "12em" }} className="line anim-typewriter2">
                 {lenguage
-                  ? "No sabia que estabas aquí..."
-                  : "I didn't realize you were here"}
+                  ? "Te gustaría darle un vistazo a mi resume?"
+                  : "Would you like to take a look at my resume?"}
               </p>
             )}
           </div>

@@ -11,7 +11,7 @@ export default function ButtonStart() {
   return (
     state && (
       <div>
-        <button className="button-start">START</button>
+        <button className="button-start">¡YES!</button>
       </div>
     )
   );

@@ -17,11 +17,11 @@
   background-repeat: no-repeat;
   background-size: contain;
   width: 37%;
-  height: 30%;
+  height: 28%;
   position: absolute;
-  transform: rotate(10deg);
-  top: 5%;
-  right: -3%;
+  transform: rotate(5deg);
+  top: 2%;
+  right: -5%;
 }
 @media (max-width: 750px) {
   .presentation h2 {
