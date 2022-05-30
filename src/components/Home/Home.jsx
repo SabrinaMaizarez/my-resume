@@ -12,7 +12,12 @@ export default function Home({ pos }) {
         <h1>
           {lenguage
             ? "Me presento! Soy Sabrina Maizarez"
-            : "I introduce myself! I'm Sabrina Maizarez"}
+            : "I introduce myself!"}
+        </h1>
+        <h1>
+          {lenguage
+            ? "Me presento! Soy Sabrina Maizarez"
+            : "I'm Sabrina Maizarez"}
         </h1>
 
         <h2 style={{ width: "60%", textAlign: "center" }}>
@@ -24,7 +29,7 @@ export default function Home({ pos }) {
         <h2 style={{width: "60%", textAlign: 'center'}}>
         {lenguage
             ? "Soy una persona dedicada, con la habilidad de trabajar de manera independiente o en equipomy autodidacta también así que aspiro a aprender un poco más cada día. "
-            : "I'm a dedicated person with the ability to work both independently and in a team, and self-taught as well so I aspire to learn a little more every day. "}
+            : "I'm a dedicated person with the ability to work both, independently and in a team, and I'm a self-learner as well, so I aspire to learn a little more every day. "}
         </h2>
 
         {size.width < 750 ? (
