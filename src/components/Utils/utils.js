@@ -32,7 +32,7 @@ export const projects = [
       "I developed a base project for the implementation of alarms in a hospital with web and mobile applications. In this case, I worked in a team using the SCRUM methodology and technologies like Php, CSS and SQL.",
     textSpanish:
       "Uno de los proyectos finales del bootcamp Henry fue hacer un Ecommerce. Esta es una página que sugiere regalos después de contestar un cuestionario. En este caso trabajé de manera fullstack, pero estuve enfocada en el sistema de preguntas, las tarjetas y el catálogo. Tecnologías: React, React-Bootstrap, Redux, NodeJS, Express, PostreSQL, Passport, Sequelize.",
-    id: "https://github.com/Lunia98/iGiftyouE-commerce",
+    // id: "https://github.com/Lunia98/iGiftyouE-commerce",
     animation: "fade-left",
   },
 
@@ -42,7 +42,7 @@ export const projects = [
       "A website for a gym made with Angular and making use of an API, where I work in the backend and the development of the API.",
     textSpanish:
       "Un sitio web para un gimnasio, realizado en Angular y con la utilización de una API, donde trabajé en el backend y en el desarrollo de la API.",
-    id: "https://lunia98.github.io/plants-website/",
+    // id: "https://lunia98.github.io/plants-website/",
     animation: "fade-right",
   },
 
