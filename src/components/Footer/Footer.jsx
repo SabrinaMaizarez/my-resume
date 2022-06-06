@@ -6,6 +6,7 @@ import Lenguage from "../Lenguage/Lenguage";
 
 import "./style.css";
 import { useSelector } from "react-redux";
+import pdf from "../../docs/cv_SabrinaMaizarez.pdf";
 
 export default function Footer() {
   const lenguage = useSelector((state) => state.lenguage);
@@ -28,7 +29,8 @@ export default function Footer() {
         </a>
         <a
           target="_BLANK"
-          href="https://docs.google.com/document/d/16Ib-qF6aJ6BPWKsnDPraQt3LcvfqvMNEdxoS-IV8UL8/edit"
+          href={pdf}
+          //href="https://docs.google.com/document/d/16Ib-qF6aJ6BPWKsnDPraQt3LcvfqvMNEdxoS-IV8UL8/edit"
           rel="noreferrer"
           className="icon_Cv"
         >
