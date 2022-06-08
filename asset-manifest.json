@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/resume-web/static/css/main.66f5f85a.chunk.css",
-    "main.js": "/resume-web/static/js/main.41ddb701.chunk.js",
-    "main.js.map": "/resume-web/static/js/main.41ddb701.chunk.js.map",
+    "main.js": "/resume-web/static/js/main.05df7037.chunk.js",
+    "main.js.map": "/resume-web/static/js/main.05df7037.chunk.js.map",
     "runtime-main.js": "/resume-web/static/js/runtime-main.23be5479.js",
     "runtime-main.js.map": "/resume-web/static/js/runtime-main.23be5479.js.map",
     "static/css/2.7fc9bc2b.chunk.css": "/resume-web/static/css/2.7fc9bc2b.chunk.css",
@@ -23,7 +23,7 @@
     "static/media/bloques.a1e27ecb.png": "/resume-web/static/media/bloques.a1e27ecb.png",
     "static/media/csharp.fc430729.png": "/resume-web/static/media/csharp.fc430729.png",
     "static/media/css.6eb18ad7.png": "/resume-web/static/media/css.6eb18ad7.png",
-    "static/media/cv_SabrinaMaizarez.925e7b89.pdf": "/resume-web/static/media/cv_SabrinaMaizarez.925e7b89.pdf",
+    "static/media/cv_SabrinaMaizarez.1fc92412.pdf": "/resume-web/static/media/cv_SabrinaMaizarez.1fc92412.pdf",
     "static/media/elpotreroFullSize.5921756e.jpg": "/resume-web/static/media/elpotreroFullSize.5921756e.jpg",
     "static/media/html.5d00fa00.png": "/resume-web/static/media/html.5d00fa00.png",
     "static/media/iGiftYou.f31b2b24.png": "/resume-web/static/media/iGiftYou.f31b2b24.png",
@@ -43,6 +43,6 @@
     "static/css/2.7fc9bc2b.chunk.css",
     "static/js/2.adf7f41c.chunk.js",
     "static/css/main.66f5f85a.chunk.css",
-    "static/js/main.41ddb701.chunk.js"
+    "static/js/main.05df7037.chunk.js"
   ]
 }
